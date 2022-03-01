@@ -1,0 +1,23 @@
+/* body{
+  margin: 0px;
+} */
+.parent
+{
+background-color:rgb(198, 156, 109);
+  height: 200px;
+  width: 200px;
+  line-height: 200px;
+ text-align: center;  block lable er sobkesur upor kaz kore */
+  font-size: 0px;
+ 
+
+}
+   .child {
+  background-color:rgb(134,39,45);
+   height:50px;
+   width:50px ;
+   /* font-size: 16px; */
+  display: inline-block;
+  vertical-align: middle;
+  /* line-height: initial; */
+  }
