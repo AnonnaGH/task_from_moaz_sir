@@ -1,0 +1,21 @@
+.parent
+{
+background-color:rgb(198, 156, 109);
+  border: 2px solid black;
+   
+   height: 200px;
+  width: 200px;
+  position:relative;
+
+}
+  .parent .child
+  {
+  background-color:rgb(134,39,45);
+   height:50px;
+   width:50px ;
+   left:50%;
+    top:50%;
+   margin:auto;
+    position:absolute; 
+    transform:translate(-50%,-50%);
+  }
