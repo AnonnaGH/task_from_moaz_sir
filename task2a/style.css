@@ -1,0 +1,33 @@
+.parent{
+    background-color: rgb(198, 156,109);
+    height: 200px;
+    width: 200px;
+    
+    position :relative;
+ 
+    
+    
+  }
+ 
+  
+.parent .child{
+    background-color:rgb(193 ,34,45) !important; 
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%; 
+    /* bottom:0;
+    
+     right: 25%;
+    margin: auto;  */
+    transform: translateX(-50%) translateY(-50%);
+    
+     
+}
+
+.parent .child{
+  background-color: blue !important;
+}
+
+ 
